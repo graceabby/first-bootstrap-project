@@ -1,0 +1,18 @@
+.btn-info {
+	background: #fa8072;
+	border: #fa8072;
+}
+.btn-info:hover {
+	background-color: #fa8072;
+}
+.btn-info:focus:active {
+	background-color: #fa8072;
+}
+.computer-bg {
+	background-image: url('../images/computer.jpeg');
+	background-position: center;
+	background-size: cover;
+}
+.jumbotron {
+	color: white;
+}
